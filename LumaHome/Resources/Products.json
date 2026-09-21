@@ -1,0 +1,114 @@
+[
+  {
+    "id": "2F2B4B52-35B5-4C58-B7D3-FDFA17A9C201",
+    "name": "Haven Lounge Chair",
+    "description": "Comfortable lounge chair with a soft woven shell and solid oak legs.",
+    "category": "Living",
+    "price": 1290,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Sand", "hex": "D8C3A5" },
+      { "name": "Terracotta", "hex": "A95F3B" }
+    ],
+    "supportsAR": true
+  },
+  {
+    "id": "8058E3A4-18D5-44BA-BD31-A55C40D2C02A",
+    "name": "Luma Table Lamp",
+    "description": "Minimal table lamp designed to create warm, low-glare ambient lighting.",
+    "category": "Lighting",
+    "price": 450,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Charcoal", "hex": "292824" },
+      { "name": "Cream", "hex": "E8DFC9" }
+    ],
+    "supportsAR": false
+  },
+  {
+    "id": "F590FC3A-E8A3-4E68-9092-6B40C1248B5E",
+    "name": "Nora Dining Chair",
+    "description": "Lightweight dining chair with a curved backrest, crafted from natural ash.",
+    "category": "Living",
+    "price": 690,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Oak", "hex": "B68A5A" },
+      { "name": "Walnut", "hex": "65452F" }
+    ],
+    "supportsAR": false
+  },
+  {
+    "id": "A34B5C2D-1E94-437B-BCA2-C5ACAD60ED22",
+    "name": "Axis Work Desk",
+    "description": "A focused work desk with generous surface space and built-in cable management.",
+    "category": "Workspace",
+    "price": 1790,
+    "rating": 4.7,
+    "imageURL": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Natural", "hex": "CDAA7D" },
+      { "name": "Black", "hex": "292929" }
+    ],
+    "supportsAR": false
+  },
+  {
+    "id": "9D18CF22-C5C9-42F5-AF39-4D47699574D8",
+    "name": "Arc Floor Lamp",
+    "description": "Sculptural floor lamp with a soft directional glow for reading corners and lounges.",
+    "category": "Lighting",
+    "price": 980,
+    "rating": 4.9,
+    "imageURL": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Matte Black", "hex": "232323" },
+      { "name": "Brass", "hex": "A8874B" }
+    ],
+    "supportsAR": true
+  },
+  {
+    "id": "9B3E9106-E650-47A4-AB13-D1BA194F94B7",
+    "name": "Form Side Table",
+    "description": "Compact round side table with a clean silhouette for sofas, bedsides and reading nooks.",
+    "category": "Living",
+    "price": 560,
+    "rating": 4.5,
+    "imageURL": "https://images.unsplash.com/photo-1499933374294-4584851497cc?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Natural Oak", "hex": "C8A77A" },
+      { "name": "Espresso", "hex": "4A3428" }
+    ],
+    "supportsAR": false
+  },
+  {
+    "id": "D72CC6B7-7C31-4EF9-A2C6-3793EE7F6F16",
+    "name": "Studio Task Chair",
+    "description": "Supportive task chair with a breathable back and understated form for focused work.",
+    "category": "Workspace",
+    "price": 1190,
+    "rating": 4.8,
+    "imageURL": "https://images.unsplash.com/photo-1598300053650-2f159a13a7a8?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Stone", "hex": "BEB8AB" },
+      { "name": "Graphite", "hex": "4A4A48" }
+    ],
+    "supportsAR": true
+  },
+  {
+    "id": "382F43A4-70BC-4C30-9E11-86CCBE3DFE1C",
+    "name": "Beam Desk Light",
+    "description": "Slim workspace lamp with a focused beam and a warm finish for evening work sessions.",
+    "category": "Lighting",
+    "price": 390,
+    "rating": 4.6,
+    "imageURL": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&w=1000&q=80",
+    "colors": [
+      { "name": "Warm White", "hex": "EEE7D7" },
+      { "name": "Olive", "hex": "6C7051" }
+    ],
+    "supportsAR": false
+  }
+]
