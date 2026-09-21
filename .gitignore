@@ -1,5 +1,20 @@
 .DS_Store
+
+# Xcode
 DerivedData/
 build/
 *.xcuserstate
 xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift / Xcode local files
+.swiftpm/
+.build/
+
+# Archives / signing
+*.xcarchive
+*.ipa
+*.mobileprovision
+*.p12
+EOF
